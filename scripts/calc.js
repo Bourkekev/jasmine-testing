@@ -3,6 +3,6 @@ function addition(numOne, numTwo) {
         return numOne+numTwo;
     }
     else {
-        return "Error!!! That\'s not 2 bloody numbers";
+        alert( "Error!" );
     }
 }
